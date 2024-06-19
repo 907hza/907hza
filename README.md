@@ -1,5 +1,5 @@
 ## HELLO !
-- 📫 a1a2a4a562@gmail.com
+📫 a1a2a4a562@gmail.com
 <p>
 <h2>Skills</h2>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
