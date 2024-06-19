@@ -1,4 +1,4 @@
-## HELLO !
+## Hello !
 📫 a1a2a4a562@gmail.com
 <div>
 <h2>Skills</h2>
