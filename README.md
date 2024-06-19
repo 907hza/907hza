@@ -1,5 +1,7 @@
-## 907hza
-<div>
+## HELLO !
+- 📫 a1a2a4a562@gmail.com
+<p>
+<h2>Skills</h2>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -12,18 +14,13 @@
 <img alt="Gradle" src ="https://img.shields.io/badge/Gradle-468eb3.svg?&style=for-the-badge&logo=Gradle&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-white.svg?&style=for-the-badge&logo=Oracle&logoColor=black"/>
 <img alt="RESTful API" src ="https://img.shields.io/badge/RESTful API-powderblue.svg?&style=for-the-badge&logo=RESTful API&logoColor=white"/>
-</div>
+</p>
 <!--
-**907hza/907hza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
