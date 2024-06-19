@@ -5,6 +5,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img alt="JAVA(JDK 1.8)" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-black?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img alt="MyBatis" src ="https://img.shields.io/badge/MyBatis-blue.svg?&style=for-the-badge&logo=MyBatis&logoColor=white"/>
 <img alt="Apache Tomcat 9.0" src ="https://img.shields.io/badge/Apache Tomcat-yellow.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/>
